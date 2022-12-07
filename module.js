@@ -27,4 +27,7 @@ const path=require('path')
 // console.log(`Parse: `,path.parse(__filename))
 
 // //Join
-console.log(`Join:`,path.join(__dirname),'order','app.js')
+// console.log(`Join:`,path.join(__dirname),'order','app.js')
+
+// // File system
+const file= require( )
